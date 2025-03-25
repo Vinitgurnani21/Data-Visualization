@@ -8,4 +8,8 @@
 2. UniversalSeaborn :- 
     - This file also shows plotting but it's by using seaborn.
     - Multiple different types of plots like heatmap, pairplot, joint plot, etc.
+<br/>
+
+3. DV_Handson :-
+    - This is handson file means the topic learned from matplotlib/seaborn are applied here to extract/visualize some meaningfull information from the data
 
