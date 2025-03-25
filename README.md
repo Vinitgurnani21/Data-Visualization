@@ -11,7 +11,8 @@
 <br/>
 
 ### DV_Handson
-    - This is handson file means the topic learned from matplotlib/seaborn are applied here <br/> to extract/visualize some meaningfull information from the data
+    - This is handson file means the topic learned from matplotlib/seaborn are applied here
+      to extract/visualize some meaningfull information from the data
     - Student.csv dataset is used here.
 <br/>
 
